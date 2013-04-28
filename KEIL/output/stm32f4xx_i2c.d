@@ -1,0 +1,10 @@
+.\KEIL\output\stm32f4xx_i2c.o: lib\src\peripherals\stm32f4xx_i2c.c
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\peripherals\stm32f4xx_i2c.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\stm32f4xx.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\core\core_cm4.h
+.\KEIL\output\stm32f4xx_i2c.o: E:\Programme\Keil\ARM\RV31\Inc\stdint.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\core\core_cmInstr.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\core\core_cmFunc.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\core\core_cm4_simd.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\system_stm32f4xx.h
+.\KEIL\output\stm32f4xx_i2c.o: .\lib\inc\peripherals\stm32f4xx_rcc.h

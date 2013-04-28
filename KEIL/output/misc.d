@@ -1,0 +1,9 @@
+.\KEIL\output\misc.o: lib\src\peripherals\misc.c
+.\KEIL\output\misc.o: .\lib\inc\peripherals\misc.h
+.\KEIL\output\misc.o: .\lib\inc\stm32f4xx.h
+.\KEIL\output\misc.o: .\lib\inc\core\core_cm4.h
+.\KEIL\output\misc.o: E:\Programme\Keil\ARM\RV31\Inc\stdint.h
+.\KEIL\output\misc.o: .\lib\inc\core\core_cmInstr.h
+.\KEIL\output\misc.o: .\lib\inc\core\core_cmFunc.h
+.\KEIL\output\misc.o: .\lib\inc\core\core_cm4_simd.h
+.\KEIL\output\misc.o: .\lib\inc\system_stm32f4xx.h

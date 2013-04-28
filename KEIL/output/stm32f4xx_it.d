@@ -1,0 +1,9 @@
+.\KEIL\output\stm32f4xx_it.o: src\stm32f4xx_it.c
+.\KEIL\output\stm32f4xx_it.o: .\inc\stm32f4xx_it.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\stm32f4xx.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\core\core_cm4.h
+.\KEIL\output\stm32f4xx_it.o: E:\Programme\Keil\ARM\RV31\Inc\stdint.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\core\core_cmInstr.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\core\core_cmFunc.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\core\core_cm4_simd.h
+.\KEIL\output\stm32f4xx_it.o: .\lib\inc\system_stm32f4xx.h
