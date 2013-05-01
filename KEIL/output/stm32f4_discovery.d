@@ -35,3 +35,4 @@
 .\KEIL\output\stm32f4_discovery.o: .\lib\inc\peripherals\stm32f4xx_wwdg.h
 .\KEIL\output\stm32f4_discovery.o: .\lib\inc\peripherals\misc.h
 .\KEIL\output\stm32f4_discovery.o: .\inc\stm32f4xx_it.h
+.\KEIL\output\stm32f4_discovery.o: .\lib\inc\stm32f4xx_conf.h

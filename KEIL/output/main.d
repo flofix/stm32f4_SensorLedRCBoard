@@ -34,5 +34,12 @@
 .\KEIL\output\main.o: .\lib\inc\peripherals\stm32f4xx_wwdg.h
 .\KEIL\output\main.o: .\lib\inc\peripherals\misc.h
 .\KEIL\output\main.o: .\inc\stm32f4xx_it.h
+.\KEIL\output\main.o: .\lib\inc\stm32f4xx_conf.h
 .\KEIL\output\main.o: .\lib\inc\stm32f4_discovery.h
-.\KEIL\output\main.o: .\inc\ADC.h
+.\KEIL\output\main.o: E:\Programme\Keil\ARM\RV31\Inc\math.h
+.\KEIL\output\main.o: .\inc\ADC_Get.h
+.\KEIL\output\main.o: .\inc\PWM_Set.h
+.\KEIL\output\main.o: .\inc\PWM_Get.h
+.\KEIL\output\main.o: .\inc\Can.h
+.\KEIL\output\main.o: .\inc\Led_I2C_Set.h
+.\KEIL\output\main.o: .\inc\Motor_Speed_Get.h

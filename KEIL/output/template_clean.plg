@@ -4,1110 +4,1230 @@
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
 E:\Programme\Dropbox\carolocup\Carolocup14\SensorLedRCBoard\stm32f4_SensorLedRCBoard\template_clean.uvproj
-Project File Date:  04/27/2013
+Project File Date:  04/29/2013
 
 <h2>Output:</h2>
+Build target 'template_clean'
+compiling main.c...
+.\inc\PWM_Set.h(5): warning:  #1-D: last line of file ends without a newline
+compiling PWM_Set.c...
+.\inc\PWM_Set.h(5): warning:  #1-D: last line of file ends without a newline
+src\PWM_Set.c(15): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+Target not created
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10132 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10132 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+src\main.c(43): error:  #140: too many arguments in function call
+Target not created
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
 Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10132 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10140 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+src\main.c(40): warning:  #174-D: expression has no effect
+src\main.c(40): error:  #65: expected a ";"
+Target not created
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'template_clean'
+compiling PWM_Set.c...
+src\PWM_Set.c(52): warning:  #188-D: enumerated type mixed with another type
+linking...
+Program Size: Code=10148 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+src\PWM_Set.c(52): error:  #20: identifier "Enable" is undefined
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+src\PWM_Set.c(52): error:  #20: identifier "Enable" is undefined
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9528 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9528 RO-data=464 RW-data=68 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+.\inc\PWM_Set.h(6): warning:  #1-D: last line of file ends without a newline
+compiling PWM_Set.c...
+.\inc\PWM_Set.h(6): warning:  #1-D: last line of file ends without a newline
+src\PWM_Set.c(93): error:  #20: identifier "PrescalerValue" is undefined
+src\PWM_Set.c(96): error:  #20: identifier "TIM_TimeBaseStructure" is undefined
+src\PWM_Set.c(104): error:  #20: identifier "TIM_OCInitStructure" is undefined
+src\PWM_Set.c(106): error:  #20: identifier "CCR1_Val" is undefined
+src\PWM_Set.c(115): error:  #20: identifier "CCR2_Val" is undefined
+src\PWM_Set.c(123): error:  #20: identifier "CCR3_Val" is undefined
+src\PWM_Set.c(131): error:  #20: identifier "CCR4_Val" is undefined
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+.\inc\PWM_Set.h(6): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=9876 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9876 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+src\PWM_Set.c(9): error:  #169: expected a declaration
+src\PWM_Set.c(10): error:  #169: expected a declaration
+src\PWM_Set.c(11): error:  #169: expected a declaration
+src\PWM_Set.c(12): error:  #169: expected a declaration
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9836 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9812 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9812 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9812 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9812 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9636 RO-data=464 RW-data=76 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+src\PWM_Set.c(42): error:  #65: expected a ";"
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+.\KEIL\output\template_clean.axf: Error: L6218E: Undefined symbol PWM_Set_CH1_ms (referred from main.o).
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9516 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9516 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9508 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10136 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10136 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=10276 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10276 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9516 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9520 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9520 RO-data=464 RW-data=72 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
 Build target 'template_clean'
 assembling startup_stm32f4xx.s...
 compiling main.c...
-src\main.c(14): warning:  #550-D: variable "value1" was set but never used
-compiling ADC.c...
-compiling stm32f4_discovery.c...
-compiling system_stm32f4xx.c...
-compiling misc.c...
-compiling stm32f4xx_adc.c...
-compiling stm32f4xx_can.c...
-compiling stm32f4xx_crc.c...
-compiling stm32f4xx_cryp.c...
-compiling stm32f4xx_cryp_aes.c...
-compiling stm32f4xx_cryp_des.c...
-compiling stm32f4xx_cryp_tdes.c...
-compiling stm32f4xx_dac.c...
-compiling stm32f4xx_dbgmcu.c...
-compiling stm32f4xx_dcmi.c...
-compiling stm32f4xx_dma.c...
-compiling stm32f4xx_exti.c...
-compiling stm32f4xx_flash.c...
-compiling stm32f4xx_fsmc.c...
-compiling stm32f4xx_gpio.c...
-compiling stm32f4xx_hash.c...
-compiling stm32f4xx_hash_md5.c...
-compiling stm32f4xx_hash_sha1.c...
-compiling stm32f4xx_i2c.c...
-compiling stm32f4xx_iwdg.c...
-compiling stm32f4xx_pwr.c...
-compiling stm32f4xx_rcc.c...
-compiling stm32f4xx_rng.c...
-compiling stm32f4xx_rtc.c...
-compiling stm32f4xx_sdio.c...
-compiling stm32f4xx_spi.c...
-compiling stm32f4xx_syscfg.c...
-compiling stm32f4xx_tim.c...
-compiling stm32f4xx_usart.c...
-compiling stm32f4xx_wwdg.c...
 linking...
-Program Size: Code=3996 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-No Algorithm found for: 08000000H - 08001167H
-Erase skipped!
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=3980 RO-data=424 RW-data=36 ZI-data=1028  
+Program Size: Code=9532 RO-data=464 RW-data=72 ZI-data=1024  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling ADC.c...
+compiling main.c...
+compiling PWM_Set.c...
+src\PWM_Set.c(40): error:  #65: expected a ";"
+Target not created
+Build target 'template_clean'
+compiling PWM_Set.c...
 linking...
-Program Size: Code=3980 RO-data=424 RW-data=36 ZI-data=1028  
+Program Size: Code=9548 RO-data=464 RW-data=72 ZI-data=1024  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(39): warning:  #223-D: function "ADC_SoftwareStartConvCmd" declared implicitly
+compiling PWM_Set.c...
 linking...
-.\KEIL\output\template_clean.axf: Error: L6218E: Undefined symbol ADC_SoftwareStartConvCmd (referred from adc.o).
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=4000 RO-data=424 RW-data=36 ZI-data=1028  
+Program Size: Code=9552 RO-data=464 RW-data=72 ZI-data=1024  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling ADC.c...
+compiling main.c...
+compiling PWM_Set.c...
+compiling ADC_Get.c...
 linking...
-Program Size: Code=3988 RO-data=424 RW-data=36 ZI-data=1028  
+.\KEIL\output\template_clean.axf: Error: L6218E: Undefined symbol ADC3ConvertedValue (referred from main.o).
+Target not created
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9552 RO-data=464 RW-data=68 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling ADC.c...
+compiling main.c...
+compiling PWM_Set.c...
+compiling PWM_Get.c...
 linking...
-Program Size: Code=3988 RO-data=424 RW-data=36 ZI-data=1028  
+Program Size: Code=9552 RO-data=464 RW-data=68 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
 Build target 'template_clean'
 compiling main.c...
-.\inc\ADC.h(4): warning:  #1295-D: Deprecated declaration ADCoku - give arg types
-src\main.c(30): error:  #20: identifier "value1" is undefined
-src\main.c(30): error:  #254: type name is not allowed
-src\main.c(30): error:  #65: expected a ";"
-src\main.c(14): warning:  #177-D: variable "value" was declared but never referenced
-compiling ADC.c...
-.\inc\ADC.h(4): warning:  #1295-D: Deprecated declaration ADCoku - give arg types
-Target not created
-Build target 'template_clean'
-compiling main.c...
-.\inc\ADC.h(4): warning:  #1295-D: Deprecated declaration ADCoku - give arg types
-src\main.c(30): error:  #254: type name is not allowed
-src\main.c(30): error:  #65: expected a ";"
-src\main.c(14): warning:  #550-D: variable "value" was set but never used
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(14): warning:  #550-D: variable "value" was set but never used
-compiling ADC.c...
-linking...
-Program Size: Code=4000 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(37): error:  #13: expected a file name
-compiling ADC.c...
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(1): error:  #13: expected a file name
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(57): error:  #268: declaration may not appear after executable statement in block
-Target not created
-Build target 'template_clean'
-compiling main.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADCoku multiply defined (by adc.o and main.o).
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=4928 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-linking...
-Program Size: Code=4928 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(21): warning:  #550-D: variable "value" was set but never used
-linking...
-Program Size: Code=3944 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(14): warning:  #550-D: variable "value" was set but never used
-compiling ADC.c...
-linking...
-Program Size: Code=4000 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(9): warning:  #550-D: variable "value" was set but never used
-src\main.c(48): error:  #20: identifier "GPIO_PIN_0" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(9): warning:  #550-D: variable "value" was set but never used
-linking...
-Program Size: Code=4000 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(9): warning:  #550-D: variable "value" was set but never used
-compiling ADC.c...
-linking...
-Program Size: Code=4000 RO-data=424 RW-data=36 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(54): error:  #20: identifier "GPIO_initStructre" is undefined
-compiling ADC.c...
-src\ADC.c(10): error:  #20: identifier "ADC_init_structure" is undefined
-src\ADC.c(5): warning:  #177-D: variable "ADC_InitStructure" was declared but never referenced
-src\ADC.c(6): warning:  #177-D: variable "ADC_CommonInitStructure" was declared but never referenced
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(57): error:  #20: identifier "GPIO_initStructre" is undefined
-compiling ADC.c...
-src\ADC.c(10): error:  #20: identifier "ADC_init_structure" is undefined
-src\ADC.c(5): warning:  #177-D: variable "ADC_InitStructure" was declared but never referenced
-src\ADC.c(6): warning:  #177-D: variable "ADC_CommonInitStructure" was declared but never referenced
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(10): error:  #20: identifier "ADC_init_structure" is undefined
-src\ADC.c(5): warning:  #177-D: variable "ADC_InitStructure" was declared but never referenced
-src\ADC.c(6): warning:  #177-D: variable "ADC_CommonInitStructure" was declared but never referenced
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=4016 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=4024 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=4160 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=4160 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(17): warning:  #223-D: function "STM_EVAL_LEDOn" declared implicitly
-src\main.c(17): error:  #20: identifier "LED4" is undefined
-src\main.c(18): error:  #20: identifier "LED5" is undefined
-src\main.c(19): error:  #20: identifier "LED6" is undefined
-src\main.c(20): error:  #20: identifier "LED7" is undefined
-compiling ADC.c...
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(21): error:  #20: identifier "LED7" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=5004 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-.\lib\inc\stm32f4xx_conf.h(60): error:  #5: cannot open source input file "stm32f10x_it.h": No such file or directory
-compiling ADC.c...
-.\lib\inc\stm32f4xx_conf.h(60): error:  #5: cannot open source input file "stm32f10x_it.h": No such file or directory
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+.\inc\PWM_Get.h(6): warning:  #1-D: last line of file ends without a newline
 compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(166): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(166): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(170): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(176): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(197): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(197): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(200): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(205): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+compiling PWM_Set.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+compiling PWM_Get.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+.\inc\PWM_Get.h(6): warning:  #1-D: last line of file ends without a newline
+compiling ADC_Get.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+compiling Can.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+compiling Led_I2C_Set.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
+compiling Motor_Speed_Get.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
 compiling stm32f4_discovery.c...
-.\lib\inc\stm32f4xx_conf.h(60): error:  #5: cannot open source input file "stm32f10x_it.h": No such file or directory
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(32): error:  #20: identifier "DMA1_Channel1" is undefined
-src\ADC.c(33): error:  #20: identifier "ADC1_DR_Address" is undefined
-src\ADC.c(34): error:  #136: struct "<unnamed>" has no field "DMA_MemoryBaseAddr"
-src\ADC.c(34): error:  #20: identifier "ADC_buf_wr_ptr" is undefined
-src\ADC.c(35): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(44): error:  #136: struct "<unnamed>" has no field "DMA_M2M"
-src\ADC.c(44): error:  #20: identifier "DMA_M2M_Disable" is undefined
-src\ADC.c(50): error:  #140: too many arguments in function call
-src\ADC.c(51): error:  #136: struct "<unnamed>" has no field "ADC_Mode"
-src\ADC.c(57): error:  #136: struct "<unnamed>" has no field "ADC_NbrOfChannel"
-src\ADC.c(60): error:  #20: identifier "ADC_SampleTime_28Cycles5" is undefined
-src\ADC.c(79): warning:  #223-D: function "ADC_ResetCalibration" declared implicitly
-src\ADC.c(81): warning:  #223-D: function "ADC_GetResetCalibrationStatus" declared implicitly
-src\ADC.c(83): warning:  #223-D: function "ADC_StartCalibration" declared implicitly
-src\ADC.c(85): warning:  #223-D: function "ADC_GetCalibrationStatus" declared implicitly
-src\ADC.c(89): error:  #20: identifier "DMA1_Channel1_IRQChannel" is undefined
-compiling stm32f4_discovery.c...
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(32): error:  #20: identifier "DMA1_Channel1" is undefined
-src\ADC.c(33): error:  #20: identifier "ADC1_DR_Address" is undefined
-src\ADC.c(34): error:  #136: struct "<unnamed>" has no field "DMA_MemoryBaseAddr"
-src\ADC.c(34): error:  #20: identifier "ADC_buf_wr_ptr" is undefined
-src\ADC.c(35): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(44): error:  #136: struct "<unnamed>" has no field "DMA_M2M"
-src\ADC.c(44): error:  #20: identifier "DMA_M2M_Disable" is undefined
-src\ADC.c(50): error:  #140: too many arguments in function call
-src\ADC.c(51): error:  #136: struct "<unnamed>" has no field "ADC_Mode"
-src\ADC.c(57): error:  #136: struct "<unnamed>" has no field "ADC_NbrOfChannel"
-src\ADC.c(60): error:  #20: identifier "ADC_SampleTime_28Cycles5" is undefined
-src\ADC.c(79): warning:  #223-D: function "ADC_ResetCalibration" declared implicitly
-src\ADC.c(81): warning:  #223-D: function "ADC_GetResetCalibrationStatus" declared implicitly
-src\ADC.c(83): warning:  #223-D: function "ADC_StartCalibration" declared implicitly
-src\ADC.c(85): warning:  #223-D: function "ADC_GetCalibrationStatus" declared implicitly
-src\ADC.c(89): error:  #20: identifier "DMA1_Channel1_IRQChannel" is undefined
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(32): error:  #20: identifier "DMA1_Channel1" is undefined
-src\ADC.c(33): error:  #20: identifier "ADC1_DR_Address" is undefined
-src\ADC.c(34): error:  #136: struct "<unnamed>" has no field "DMA_MemoryBaseAddr"
-src\ADC.c(34): error:  #20: identifier "ADC_buf_wr_ptr" is undefined
-src\ADC.c(35): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(44): error:  #136: struct "<unnamed>" has no field "DMA_M2M"
-src\ADC.c(44): error:  #20: identifier "DMA_M2M_Disable" is undefined
-src\ADC.c(50): error:  #140: too many arguments in function call
-src\ADC.c(51): error:  #136: struct "<unnamed>" has no field "ADC_Mode"
-src\ADC.c(57): error:  #136: struct "<unnamed>" has no field "ADC_NbrOfChannel"
-src\ADC.c(60): error:  #20: identifier "ADC_SampleTime_28Cycles5" is undefined
-src\ADC.c(79): warning:  #223-D: function "ADC_ResetCalibration" declared implicitly
-src\ADC.c(81): warning:  #223-D: function "ADC_GetResetCalibrationStatus" declared implicitly
-src\ADC.c(83): warning:  #223-D: function "ADC_StartCalibration" declared implicitly
-src\ADC.c(85): warning:  #223-D: function "ADC_GetCalibrationStatus" declared implicitly
-src\ADC.c(89): error:  #20: identifier "DMA1_Channel1_IRQChannel" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(14): warning:  #223-D: function "ADC_Configuration" declared implicitly
-compiling ADC.c...
-src\ADC.c(32): error:  #20: identifier "DMA1_Channel1" is undefined
-src\ADC.c(33): error:  #20: identifier "ADC1_DR_Address" is undefined
-src\ADC.c(34): error:  #136: struct "<unnamed>" has no field "DMA_MemoryBaseAddr"
-src\ADC.c(34): error:  #20: identifier "ADC_buf_wr_ptr" is undefined
-src\ADC.c(35): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(44): error:  #136: struct "<unnamed>" has no field "DMA_M2M"
-src\ADC.c(44): error:  #20: identifier "DMA_M2M_Disable" is undefined
-src\ADC.c(50): error:  #140: too many arguments in function call
-src\ADC.c(51): error:  #136: struct "<unnamed>" has no field "ADC_Mode"
-src\ADC.c(57): error:  #136: struct "<unnamed>" has no field "ADC_NbrOfChannel"
-src\ADC.c(60): error:  #20: identifier "ADC_SampleTime_28Cycles5" is undefined
-src\ADC.c(79): warning:  #223-D: function "ADC_ResetCalibration" declared implicitly
-src\ADC.c(81): warning:  #223-D: function "ADC_GetResetCalibrationStatus" declared implicitly
-src\ADC.c(83): warning:  #223-D: function "ADC_StartCalibration" declared implicitly
-src\ADC.c(85): warning:  #223-D: function "ADC_GetCalibrationStatus" declared implicitly
-src\ADC.c(89): error:  #20: identifier "DMA1_Channel1_IRQChannel" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(32): error:  #20: identifier "DMA1_Channel1" is undefined
-src\ADC.c(33): error:  #20: identifier "ADC1_DR_Address" is undefined
-src\ADC.c(34): error:  #136: struct "<unnamed>" has no field "DMA_MemoryBaseAddr"
-src\ADC.c(34): error:  #20: identifier "ADC_buf_wr_ptr" is undefined
-src\ADC.c(35): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(44): error:  #136: struct "<unnamed>" has no field "DMA_M2M"
-src\ADC.c(44): error:  #20: identifier "DMA_M2M_Disable" is undefined
-src\ADC.c(50): error:  #140: too many arguments in function call
-src\ADC.c(51): error:  #136: struct "<unnamed>" has no field "ADC_Mode"
-src\ADC.c(57): error:  #136: struct "<unnamed>" has no field "ADC_NbrOfChannel"
-src\ADC.c(60): error:  #20: identifier "ADC_SampleTime_28Cycles5" is undefined
-src\ADC.c(79): warning:  #223-D: function "ADC_ResetCalibration" declared implicitly
-src\ADC.c(81): warning:  #223-D: function "ADC_GetResetCalibrationStatus" declared implicitly
-src\ADC.c(83): warning:  #223-D: function "ADC_StartCalibration" declared implicitly
-src\ADC.c(85): warning:  #223-D: function "ADC_GetCalibrationStatus" declared implicitly
-src\ADC.c(89): error:  #20: identifier "DMA1_Channel1_IRQChannel" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(34): error:  #65: expected a ";"
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-src\ADC.c(38): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-src\ADC.c(38): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "uint16_t ADC3ConvertedValue" (declared at line 7 of ".\inc\ADC.h")
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "volatile uint16_t ADC3ConvertedValue" (declared at line 7 of ".\inc\ADC.h")
-src\main.c(33): warning:  #174-D: expression has no effect
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(33): warning:  #174-D: expression has no effect
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "uint16_t ADC3ConvertedValue" (declared at line 7 of ".\inc\ADC.h")
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-src\ADC.c(38): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(33): warning:  #174-D: expression has no effect
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-.\inc\ADC.h(7): error:  #20: identifier "IO__" is undefined
-.\inc\ADC.h(7): error:  #101: "uint16_t" has already been declared in the current scope
-.\inc\ADC.h(7): error:  #65: expected a ";"
-src\main.c(33): error:  #20: identifier "ADC3ConvertedValue" is undefined
-src\main.c(52): error:  #18: expected a ")"
-src\main.c(52): error:  #18: expected a ")"
-src\main.c(57): error:  #18: expected a ")"
-src\main.c(63): error:  #18: expected a ")"
-src\main.c(63): error:  #18: expected a ")"
-src\main.c(63): error:  #18: expected a ")"
-src\main.c(63): error:  #18: expected a ")"
-compiling ADC.c...
-.\inc\ADC.h(7): error:  #20: identifier "IO__" is undefined
-.\inc\ADC.h(7): error:  #101: "uint16_t" has already been declared in the current scope
-.\inc\ADC.h(7): error:  #65: expected a ";"
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-src\ADC.c(38): error:  #20: identifier "ADC3ConvertedValue" is undefined
-src\ADC.c(55): error:  #18: expected a ")"
-src\ADC.c(98): error:  #757: variable "uint16_t" is not a type name
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(37): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
-Target not created
-Rebuild target 'template_clean'
-assembling startup_stm32f4xx.s...
-compiling main.c...
-compiling ADC.c...
-compiling stm32f4xx_it.c...
-compiling stm32f4_discovery.c...
-compiling system_stm32f4xx.c...
-compiling misc.c...
-compiling stm32f4xx_adc.c...
-compiling stm32f4xx_can.c...
-compiling stm32f4xx_crc.c...
-compiling stm32f4xx_cryp.c...
-compiling stm32f4xx_cryp_aes.c...
-compiling stm32f4xx_cryp_des.c...
-compiling stm32f4xx_cryp_tdes.c...
-compiling stm32f4xx_dac.c...
-compiling stm32f4xx_dbgmcu.c...
-compiling stm32f4xx_dcmi.c...
-compiling stm32f4xx_dma.c...
-compiling stm32f4xx_exti.c...
-compiling stm32f4xx_flash.c...
-compiling stm32f4xx_fsmc.c...
-compiling stm32f4xx_gpio.c...
-compiling stm32f4xx_hash.c...
-compiling stm32f4xx_hash_md5.c...
-compiling stm32f4xx_hash_sha1.c...
-compiling stm32f4xx_i2c.c...
-compiling stm32f4xx_iwdg.c...
-compiling stm32f4xx_pwr.c...
-compiling stm32f4xx_rcc.c...
-compiling stm32f4xx_rng.c...
-compiling stm32f4xx_rtc.c...
-compiling stm32f4xx_sdio.c...
-compiling stm32f4xx_spi.c...
-compiling stm32f4xx_syscfg.c...
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
 compiling stm32f4xx_tim.c...
-compiling stm32f4xx_usart.c...
-compiling stm32f4xx_wwdg.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
+.\lib\inc\peripherals\stm32f4xx_tim.h(550): error:  #40: expected an identifier
 Target not created
 Build target 'template_clean'
 compiling main.c...
-src\main.c(33): warning:  #174-D: expression has no effect
-compiling ADC.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
-Target not created
-Build target 'template_clean'
-compiling main.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
-Target not created
-Rebuild target 'template_clean'
-assembling startup_stm32f4xx.s...
-compiling main.c...
-compiling ADC.c...
+.\inc\PWM_Get.h(6): warning:  #1-D: last line of file ends without a newline
 compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(166): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(166): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(170): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(176): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(197): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(197): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(200): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(205): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+compiling PWM_Set.c...
+compiling PWM_Get.c...
+.\inc\PWM_Get.h(6): warning:  #1-D: last line of file ends without a newline
+compiling ADC_Get.c...
+compiling Can.c...
+compiling Led_I2C_Set.c...
+compiling Motor_Speed_Get.c...
 compiling stm32f4_discovery.c...
-compiling system_stm32f4xx.c...
-compiling misc.c...
-compiling stm32f4xx_adc.c...
-compiling stm32f4xx_can.c...
-compiling stm32f4xx_crc.c...
-compiling stm32f4xx_cryp.c...
-compiling stm32f4xx_cryp_aes.c...
-compiling stm32f4xx_cryp_des.c...
-compiling stm32f4xx_cryp_tdes.c...
-compiling stm32f4xx_dac.c...
-compiling stm32f4xx_dbgmcu.c...
-compiling stm32f4xx_dcmi.c...
-compiling stm32f4xx_dma.c...
-compiling stm32f4xx_exti.c...
-compiling stm32f4xx_flash.c...
-compiling stm32f4xx_fsmc.c...
-compiling stm32f4xx_gpio.c...
-compiling stm32f4xx_hash.c...
-compiling stm32f4xx_hash_md5.c...
-compiling stm32f4xx_hash_sha1.c...
-compiling stm32f4xx_i2c.c...
-compiling stm32f4xx_iwdg.c...
-compiling stm32f4xx_pwr.c...
-compiling stm32f4xx_rcc.c...
-compiling stm32f4xx_rng.c...
-compiling stm32f4xx_rtc.c...
-compiling stm32f4xx_sdio.c...
-compiling stm32f4xx_spi.c...
-compiling stm32f4xx_syscfg.c...
 compiling stm32f4xx_tim.c...
-compiling stm32f4xx_usart.c...
-compiling stm32f4xx_wwdg.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
 Target not created
 Build target 'template_clean'
 compiling main.c...
-compiling ADC.c...
+compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(165): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+src\stm32f4xx_it.c(166): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+src\stm32f4xx_it.c(169): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(169): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(172): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(177): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(200): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+src\stm32f4xx_it.c(201): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+src\stm32f4xx_it.c(204): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(204): error:  #20: identifier "TIM_IT_CC2" is undefined
+src\stm32f4xx_it.c(207): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(212): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+compiling PWM_Get.c...
+Target not created
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(165): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+src\stm32f4xx_it.c(166): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+src\stm32f4xx_it.c(169): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(169): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(172): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(177): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+src\stm32f4xx_it.c(200): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+src\stm32f4xx_it.c(201): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+src\stm32f4xx_it.c(204): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+src\stm32f4xx_it.c(204): error:  #20: identifier "TIM_IT_CC3" is undefined
+src\stm32f4xx_it.c(207): warning:  #223-D: function "TIM_GetCapture2" declared implicitly
+src\stm32f4xx_it.c(212): warning:  #223-D: function "TIM_GetCapture1" declared implicitly
+Target not created
+Build target 'template_clean'
+compiling main.c...
+compiling stm32f4xx_it.c...
+compiling PWM_Set.c...
+compiling PWM_Get.c...
+compiling ADC_Get.c...
+compiling Can.c...
+compiling Led_I2C_Set.c...
+compiling Motor_Speed_Get.c...
+compiling stm32f4_discovery.c...
 linking...
-Program Size: Code=6140 RO-data=464 RW-data=60 ZI-data=1028  
+Program Size: Code=10104 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Build target 'template_clean'
 compiling main.c...
-linking...
-Program Size: Code=6140 RO-data=464 RW-data=60 ZI-data=1028  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+src\main.c(44): error:  #20: identifier "DutyCycle1" is undefined
+src\main.c(45): error:  #20: identifier "DutyCycle2" is undefined
+src\main.c(46): error:  #20: identifier "Frequency1" is undefined
+src\main.c(47): error:  #20: identifier "Frequency2" is undefined
+Target not created
 Build target 'template_clean'
 compiling main.c...
-src\main.c(8): error:  #169: expected a declaration
-src\main.c(33): error:  #20: identifier "ADC3ConvertedValue" is undefined
+compiling stm32f4xx_it.c...
+linking...
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by stm32f4xx_it.o and main.o).
+Target not created
+Build target 'template_clean'
+compiling main.c...
+src\main.c(19): error:  #148: variable "DutyCycle1" has already been initialized
+src\main.c(20): error:  #148: variable "DutyCycle2" has already been initialized
+src\main.c(21): error:  #148: variable "Frequency1" has already been initialized
+src\main.c(22): error:  #148: variable "Frequency2" has already been initialized
+compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(39): error:  #148: variable "IC2Value1" has already been initialized
+src\stm32f4xx_it.c(40): error:  #148: variable "IC2Value2" has already been initialized
+src\stm32f4xx_it.c(42): error:  #148: variable "DutyCycle1" has already been initialized
+src\stm32f4xx_it.c(43): error:  #148: variable "DutyCycle2" has already been initialized
+src\stm32f4xx_it.c(44): error:  #148: variable "Frequency1" has already been initialized
+src\stm32f4xx_it.c(45): error:  #148: variable "Frequency2" has already been initialized
+compiling PWM_Set.c...
+compiling PWM_Get.c...
+compiling ADC_Get.c...
+compiling Can.c...
+compiling Led_I2C_Set.c...
+compiling Motor_Speed_Get.c...
+compiling stm32f4_discovery.c...
+Target not created
+Build target 'template_clean'
+compiling main.c...
+src\main.c(19): error:  #148: variable "DutyCycle1" has already been initialized
+src\main.c(20): error:  #148: variable "DutyCycle2" has already been initialized
+src\main.c(21): error:  #148: variable "Frequency1" has already been initialized
+src\main.c(22): error:  #148: variable "Frequency2" has already been initialized
+compiling stm32f4xx_it.c...
 Target not created
 Build target 'template_clean'
 compiling main.c...
 linking...
-Program Size: Code=6148 RO-data=464 RW-data=64 ZI-data=1024  
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value1 multiply defined (by stm32f4_discovery.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol IC2Value2 multiply defined (by stm32f4_discovery.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by stm32f4_discovery.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by stm32f4_discovery.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by stm32f4_discovery.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by pwm_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by pwm_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by adc_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by can.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by led_i2c_set.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by motor_speed_get.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by stm32f4_discovery.o and main.o).
+Target not created
+Build target 'template_clean'
+compiling main.c...
+compiling stm32f4xx_it.c...
+compiling PWM_Set.c...
+compiling PWM_Get.c...
+compiling ADC_Get.c...
+compiling Can.c...
+compiling Led_I2C_Set.c...
+compiling Motor_Speed_Get.c...
+compiling stm32f4_discovery.c...
+linking...
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol DutyCycle2 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency1 multiply defined (by stm32f4xx_it.o and main.o).
+.\KEIL\output\template_clean.axf: Error: L6200E: Symbol Frequency2 multiply defined (by stm32f4xx_it.o and main.o).
+Target not created
+Build target 'template_clean'
+compiling main.c...
+src\main.c(48): error:  #20: identifier "DutyCycle1" is undefined
+src\main.c(49): error:  #20: identifier "DutyCycle2" is undefined
+src\main.c(50): error:  #20: identifier "Frequency1" is undefined
+src\main.c(51): error:  #20: identifier "Frequency2" is undefined
+Target not created
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10104 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(42): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "uint16_t ADC3ConvertedValue" (declared at line 7 of ".\inc\ADC.h")
-compiling ADC.c...
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "uint16_t ADC3ConvertedValue" (declared at line 7 of ".\inc\ADC.h")
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(42): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(42): error:  #20: identifier "ADC3ConvertedValue" is undefined
-Target not created
-Build target 'template_clean'
-compiling main.c...
-.\inc\ADC.h(8): warning:  #1-D: last line of file ends without a newline
-compiling ADC.c...
-.\inc\ADC.h(8): warning:  #1-D: last line of file ends without a newline
+compiling PWM_Get.c...
 linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6200E: Symbol ADC3ConvertedValue multiply defined (by adc.o and main.o).
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "volatile uint16_t ADC3ConvertedValue" (declared at line 8 of ".\inc\ADC.h")
-src\main.c(33): warning:  #174-D: expression has no effect
-Target not created
-Build target 'template_clean'
-compiling main.c...
-src\main.c(8): error:  #147: declaration is incompatible with "uint16_t ADC3ConvertedValue" (declared at line 8 of ".\inc\ADC.h")
-compiling ADC.c...
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=6148 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10104 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling main.c...
+compiling PWM_Get.c...
 linking...
-Program Size: Code=6148 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10104 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
-compiling main.c...
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
 linking...
-Program Size: Code=6148 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10108 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
 Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
 Erase Done.
 Programming Done.
-Verify OK.
 Build target 'template_clean'
 compiling main.c...
-src\main.c(88): error:  #20: identifier "ADC3_DR_ADDRESS" is undefined
-src\main.c(147): warning:  #1-D: last line of file ends without a newline
-compiling ADC.c...
+linking...
+Program Size: Code=10052 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10052 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Get.c...
+src\PWM_Get.c(7): warning:  #177-D: variable "TIM_TimeBaseStructure" was declared but never referenced
+linking...
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling stm32f4xx_it.c...
+compiling PWM_Set.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10048 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=10040 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+linking...
+Program Size: Code=10040 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10036 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10036 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10040 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling stm32f4xx_tim.c...
+linking...
+Program Size: Code=10040 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10000 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+src\PWM_Get.c(7): warning:  #177-D: variable "TIM_TimeBaseStructure" was declared but never referenced
+linking...
+Program Size: Code=9872 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+src\stm32f4xx_it.c(206): error:  #20: identifier "IC2Value" is undefined
+src\stm32f4xx_it.c(211): error:  #20: identifier "DutyCycle" is undefined
+src\stm32f4xx_it.c(216): error:  #20: identifier "Frequency" is undefined
+src\stm32f4xx_it.c(220): error:  #20: identifier "DutyCycle" is undefined
+src\stm32f4xx_it.c(221): error:  #20: identifier "Frequency" is undefined
 Target not created
 Build target 'template_clean'
-compiling main.c...
-src\main.c(149): warning:  #1-D: last line of file ends without a newline
+compiling stm32f4xx_it.c...
 linking...
-Program Size: Code=6108 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=9860 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9892 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9892 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9892 RO-data=464 RW-data=80 ZI-data=1024  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+compiling PWM_Set.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9892 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9896 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9892 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9812 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9804 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=9808 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling stm32f4xx_it.c...
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10016 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling PWM_Get.c...
+linking...
+Program Size: Code=10016 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+src\main.c(26): warning:  #223-D: function "Discovery_Led_Configuration" declared implicitly
+compiling Discovery_Led_Set.c...
+.\inc\Discovery_Led_Set.h(5): warning:  #1-D: last line of file ends without a newline
+src\Discovery_Led_Set.c(7): error:  #268: declaration may not appear after executable statement in block
+src\Discovery_Led_Set.c(17): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'template_clean'
+compiling Discovery_Led_Set.c...
+linking...
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
+".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
+Erase Done.
+Programming Done.
+Build target 'template_clean'
+compiling main.c...
+src\main.c(26): warning:  #223-D: function "Discovery_Led_Set_Configuration" declared implicitly
+compiling Discovery_Led_Set.c...
+linking...
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
 Build target 'template_clean'
 compiling main.c...
-src\main.c(150): warning:  #1-D: last line of file ends without a newline
+src\main.c(26): warning:  #223-D: function "Discovery_Led_Set_Configuration" declared implicitly
+compiling ADC_Get.c...
 linking...
-Program Size: Code=6108 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(150): warning:  #1-D: last line of file ends without a newline
-compiling ADC.c...
-linking...
-Program Size: Code=6152 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-.\inc\ADC.h(13): warning:  #1-D: last line of file ends without a newline
-src\main.c(13): warning:  #520-D: initialization with "{...}" expected for aggregate object
-src\main.c(39): warning:  #174-D: expression has no effect
-src\main.c(77): warning:  #1-D: last line of file ends without a newline
-compiling ADC.c...
-.\inc\ADC.h(13): warning:  #1-D: last line of file ends without a newline
-src\ADC.c(114): warning:  #1-D: last line of file ends without a newline
-linking...
-Program Size: Code=6120 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 6 Warning(s).
-Build target 'template_clean'
-compiling main.c...
-src\main.c(39): warning:  #174-D: expression has no effect
-src\main.c(77): warning:  #1-D: last line of file ends without a newline
-compiling ADC.c...
-src\ADC.c(114): warning:  #1-D: last line of file ends without a newline
-linking...
-Program Size: Code=6120 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 3 Warning(s).
-Build target 'template_clean'
-compiling main.c...
-src\main.c(78): warning:  #1-D: last line of file ends without a newline
-linking...
-Program Size: Code=6128 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
 Build target 'template_clean'
 compiling main.c...
+src\main.c(26): warning:  #223-D: function "Discovery_Led_Set_Configuration" declared implicitly
+compiling Discovery_Led_Set.c...
 linking...
-Program Size: Code=6128 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=6128 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-src\ADC.c(115): warning:  #1-D: last line of file ends without a newline
-linking...
-Program Size: Code=6124 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
 Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(115): warning:  #1-D: last line of file ends without a newline
 linking...
-Program Size: Code=6124 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 1 Warning(s).
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6124 RO-data=464 RW-data=64 ZI-data=1024  
+Program Size: Code=10012 RO-data=464 RW-data=84 ZI-data=1028  
 ".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6132 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6140 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=6140 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6140 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=6116 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6116 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=6116 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=6112 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=6112 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5032 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(24): warning:  #223-D: function "ADC_Configuration" declared implicitly
-compiling ADC.c...
-linking...
-.\KEIL\output\template_clean.axf: Error: L6218E: Undefined symbol ADC_Configuration (referred from main.o).
-Target not created
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=6104 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5024 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=5032 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5028 RO-data=464 RW-data=64 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-src\main.c(14): error:  #147: declaration is incompatible with "volatile uint16_t ADC3ConvertedValue" (declared at line 8 of ".\inc\ADC.h")
-compiling ADC.c...
-Target not created
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5140 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5136 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Build target 'template_clean'
-compiling ADC.c...
-src\ADC.c(26): error:  #20: identifier "DMA_DIR_PeripheralSRC" is undefined
-src\ADC.c(38): error:  #20: identifier "DMA2_Channel1" is undefined
-Target not created
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling main.c...
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.
-Build target 'template_clean'
-compiling ADC.c...
-linking...
-Program Size: Code=5120 RO-data=424 RW-data=40 ZI-data=1024  
-".\KEIL\output\template_clean.axf" - 0 Error(s), 0 Warning(s).
-Load "E:\\Programme\\Dropbox\\carolocup\\Carolocup14\\SensorLedRCBoard\\stm32f4_SensorLedRCBoard\\KEIL\\output\\template_clean.AXF" 
-Erase Done.
-Programming Done.
-Verify OK.

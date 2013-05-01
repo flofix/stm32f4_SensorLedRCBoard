@@ -29,12 +29,20 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx.h"
+#include "stm32f4xx_conf.h"
 
 /* Exported types ------------------------------------------------------------*/
 /* Exported constants --------------------------------------------------------*/
 /* Exported macro ------------------------------------------------------------*/
-/* Exported functions ------------------------------------------------------- */
+// /* Private variables ---------------------------------------------------------*/
+// __IO uint16_t IC2Value1 = 0;
+// __IO uint16_t IC2Value2 = 0;
 
+// extern __IO uint16_t DutyCycle1 =0;
+// extern __IO uint16_t DutyCycle2 =0;
+// extern __IO uint32_t Frequency1 = 0;
+// extern __IO uint32_t Frequency2 = 0;
+/* Exported functions ------------------------------------------------------- */	 
 void NMI_Handler(void);
 void HardFault_Handler(void);
 void MemManage_Handler(void);
@@ -44,6 +52,8 @@ void SVC_Handler(void);
 void DebugMon_Handler(void);
 void PendSV_Handler(void);
 void SysTick_Handler(void);
+void TIM2_IRQHandler(void);
+void TIM3_IRQHandler(void);
 
 #ifdef __cplusplus
 }

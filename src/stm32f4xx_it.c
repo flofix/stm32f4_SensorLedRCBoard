@@ -36,6 +36,14 @@
 /* Private define ------------------------------------------------------------*/
 /* Private macro -------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/
+__IO uint16_t IC2Value1 = 0;
+__IO uint16_t IC2Value2 = 0;
+
+extern __IO uint16_t DutyCycle1 =0;
+extern __IO uint16_t DutyCycle2 =0;
+extern __IO uint32_t Frequency1 = 0;
+extern __IO uint32_t Frequency2 = 0;
+
 /* Private function prototypes -----------------------------------------------*/
 /* Private functions ---------------------------------------------------------*/
 
@@ -146,6 +154,99 @@ void SysTick_Handler(void)
 /*  available peripheral interrupt handler's name please refer to the startup */
 /*  file (startup_stm32f4xx.s).                                               */
 /******************************************************************************/
+/**
+  * @brief  This function handles TIM2 global interrupt request.
+  * @param  None
+  * @retval None
+  */
+void TIM2_IRQHandler(void)
+{
+	RCC_ClocksTypeDef RCC_Clocks;
+  RCC_GetClocksFreq(&RCC_Clocks);
+
+  /* Clear TIM2 Capture compare interrupt pending bit */
+  TIM_ClearITPendingBit(TIM2, TIM_IT_CC2);
+
+  /* Get the Input Capture value */
+  IC2Value1 = TIM_GetCapture2(TIM2);
+
+  if (IC2Value1 != 0)
+  {
+    /* Duty cycle computation */
+    DutyCycle1 = (TIM_GetCapture1(TIM2) * 100) / IC2Value1;
+
+    /* Frequency computation 
+       TIM2 counter clock = (RCC_Clocks.HCLK_Frequency)/2 */
+
+    Frequency1 = (RCC_Clocks.HCLK_Frequency)/2 / IC2Value1;
+  }
+  else
+  {
+    DutyCycle1 = 0;
+    Frequency1 = 0;
+  }
+	
+}
+
+/**
+  * @brief  This function handles TIM3 global interrupt request.
+  * @param  None
+  * @retval None
+  */
+
+void TIM3_IRQHandler(void)
+{
+	RCC_ClocksTypeDef RCC_Clocks;
+  RCC_GetClocksFreq(&RCC_Clocks);
+
+  /* Clear TIM4 Capture compare interrupt pending bit */
+  TIM_ClearITPendingBit(TIM3, TIM_IT_CC2);
+
+  /* Get the Input Capture value */
+  IC2Value2 = TIM_GetCapture2(TIM3);
+
+  if (IC2Value2 != 0)
+  {
+    /* Duty cycle computation */
+    DutyCycle2 = (TIM_GetCapture1(TIM3) * 100) / IC2Value2;
+
+    /* Frequency computation 
+       TIM4 counter clock = (RCC_Clocks.HCLK_Frequency)/2 */
+
+    Frequency2 = (RCC_Clocks.HCLK_Frequency)/2 / IC2Value2;
+  }
+  else
+  {
+    DutyCycle2 = 0;
+    Frequency2 = 0;
+  }
+	
+//   RCC_ClocksTypeDef RCC_Clocks;
+//   RCC_GetClocksFreq(&RCC_Clocks);
+
+//   /* Clear TIM3 Capture compare interrupt pending bit */
+//   TIM_ClearITPendingBit(TIM3, TIM_IT_CC3);
+
+//   /* Get the Input Capture value */
+//   IC2Value1 = TIM_GetCapture2(TIM3);
+
+//   if (IC2Value1 != 0)
+//   {
+//     /* Duty cycle computation */
+//     DutyCycle1 = (TIM_GetCapture1(TIM3) * 100) / IC2Value1;
+
+//     /* Frequency computation 
+//        TIM3 counter clock = (RCC_Clocks.HCLK_Frequency)/2 */
+
+//     Frequency1 = (RCC_Clocks.HCLK_Frequency)/2 / IC2Value1;
+//   }
+//   else
+//   {
+//     DutyCycle1 = 0;
+//     Frequency1 = 0;
+//   }
+}
+
 
 /**
   * @brief  This function handles PPP interrupt request.

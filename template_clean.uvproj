@@ -404,14 +404,44 @@
               <FilePath>.\src\main.c</FilePath>
             </File>
             <File>
-              <FileName>ADC.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\ADC.c</FilePath>
-            </File>
-            <File>
               <FileName>stm32f4xx_it.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\src\stm32f4xx_it.c</FilePath>
+            </File>
+            <File>
+              <FileName>PWM_Set.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\PWM_Set.c</FilePath>
+            </File>
+            <File>
+              <FileName>PWM_Get.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\PWM_Get.c</FilePath>
+            </File>
+            <File>
+              <FileName>ADC_Get.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\ADC_Get.c</FilePath>
+            </File>
+            <File>
+              <FileName>Can.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Can.c</FilePath>
+            </File>
+            <File>
+              <FileName>Led_I2C_Set.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Led_I2C_Set.c</FilePath>
+            </File>
+            <File>
+              <FileName>Motor_Speed_Get.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Motor_Speed_Get.c</FilePath>
+            </File>
+            <File>
+              <FileName>Discovery_Led_Set.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Discovery_Led_Set.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -419,14 +449,44 @@
           <GroupName>inc</GroupName>
           <Files>
             <File>
-              <FileName>ADC.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\inc\ADC.h</FilePath>
-            </File>
-            <File>
               <FileName>stm32f4xx_it.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\inc\stm32f4xx_it.h</FilePath>
+            </File>
+            <File>
+              <FileName>PWM_Set.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\PWM_Set.h</FilePath>
+            </File>
+            <File>
+              <FileName>PWM_Get.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\PWM_Get.h</FilePath>
+            </File>
+            <File>
+              <FileName>ADC_Get.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\ADC_Get.h</FilePath>
+            </File>
+            <File>
+              <FileName>Can.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\Can.h</FilePath>
+            </File>
+            <File>
+              <FileName>Led_I2C_Set.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\Led_I2C_Set.h</FilePath>
+            </File>
+            <File>
+              <FileName>Motor_Speed_Get.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\Motor_Speed_Get.h</FilePath>
+            </File>
+            <File>
+              <FileName>Discovery_Led_Set.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\inc\Discovery_Led_Set.h</FilePath>
             </File>
           </Files>
         </Group>

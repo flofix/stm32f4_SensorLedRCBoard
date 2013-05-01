@@ -2,7 +2,7 @@
 #include "stm32f4xx.h"
 
 /* Private function prototypes -----------------------------------------------*/
-void ADC_DMA_Configuration(void);
+void ADC_Get_Configuration(void);
 
 /* Private variables ---------------------------------------------------------*/
 extern __IO uint16_t ADC3ConvertedValue[2];

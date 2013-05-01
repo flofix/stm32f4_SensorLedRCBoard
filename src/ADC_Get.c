@@ -1,4 +1,4 @@
-#include "ADC.h"
+#include "ADC_Get.h"
 
 /* Private define ------------------------------------------------------------*/
 #define ADC3_DR_ADDRESS     ((uint32_t)0x4001224C)
@@ -6,7 +6,7 @@
 
 
 	
-void ADC_DMA_Configuration(void)
+void ADC_Get_Configuration(void)
 	{		
 		ADC_InitTypeDef       ADC_InitStructure;
 		ADC_CommonInitTypeDef ADC_CommonInitStructure;
@@ -70,18 +70,11 @@ void ADC_DMA_Configuration(void)
 
 		/* Enable ADC3 */
 		ADC_Cmd(ADC3, ENABLE);
-		
-		/* Interrupt Handler bekanntgabe DMA (noch nicht verwendet)*/
-		
-// 		/* Enable DMA1 channel1 IRQ Channel */
-// 		NVIC_InitStructure.NVIC_IRQChannel = DMA1_Channel1_IRQChannel;
-// 		NVIC_InitStructure.NVIC_IRQChannelPreemptionPriority = 0;
-// 		NVIC_InitStructure.NVIC_IRQChannelSubPriority = 0;
-// 		NVIC_InitStructure.NVIC_IRQChannelCmd = ENABLE;
-// 		NVIC_Init(&NVIC_InitStructure);
-		
+				
 	}
 
+	
+	
 	
 	/* Die zwei nachfolgenden Funktionen sind zum ADC auslesen ohne DMA und Funktionieren*/
 // 	
