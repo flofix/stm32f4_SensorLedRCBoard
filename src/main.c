@@ -12,7 +12,7 @@
 /* Private define ------------------------------------------------------------*/
 /* Private function prototypes -----------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/
-__IO uint16_t ADC3ConvertedValue[2];
+__IO uint16_t ADCConvertedValue[8];
 // __IO uint16_t DutyCycle1;
 // __IO uint16_t DutyCycle2;
 // __IO uint32_t Frequency1;
@@ -27,7 +27,7 @@ int main(void)
 		PWM_Get_Configuration();
 	
 		/* Start ADC3 Software Conversion */ 
-		ADC_SoftwareStartConv(ADC3);
+		ADC_SoftwareStartConv(ADC1);
 	
 		//STM_EVAL_LEDOnLed anschalen
 		//STM_EVAL_LEDOff Led ausschalten
@@ -40,7 +40,7 @@ int main(void)
 		PWM_Set_CH1_ms(1);
      while(1)
      {		
-			ADC3ConvertedValue[1];
+		//	ADCConvertedValue[1];
     }
 }
 

@@ -5,7 +5,7 @@
 void ADC_Get_Configuration(void);
 
 /* Private variables ---------------------------------------------------------*/
-extern __IO uint16_t ADC3ConvertedValue[2];
+extern __IO uint16_t ADCConvertedValue[8];
 
 /* Funktionsprotoypen der alten ADC Funktionen */
 

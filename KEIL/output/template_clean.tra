@@ -51,7 +51,7 @@
 ### ADS-LD Output File: '.\KEIL\output\template_clean.axf'
 ### ADS-LD Command File: '.\KEIL\output\template_clean.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\KEIL\output\template_clean.lnp', Handle=0x000026D4
+### Creating CmdFile '.\KEIL\output\template_clean.lnp', Handle=0x00002984
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\KEIL\output\template_clean.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

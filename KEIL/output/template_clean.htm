@@ -3,7 +3,7 @@
 <title>Static Call Graph - [.\KEIL\output\template_clean.axf]</title></head>
 <body><HR>
 <H1>Static Call Graph for image .\KEIL\output\template_clean.axf</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 4.1 [Build 894]: Last Updated: Wed May 01 13:39:54 2013
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 4.1 [Build 894]: Last Updated: Thu May 02 09:32:01 2013
 <BR><P>
 <H3>Maximum Stack Usage =        128 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -380,7 +380,7 @@ Global Symbols
 <P><STRONG><a name="[a]"></a>WWDG_IRQHandler</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, startup_stm32f4xx.o(.text))
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32f4xx.o(RESET)
 </UL>
-<P><STRONG><a name="[5c]"></a>main</STRONG> (Thumb, 62 bytes, Stack size 0 bytes, main.o(.text))
+<P><STRONG><a name="[5c]"></a>main</STRONG> (Thumb, 58 bytes, Stack size 0 bytes, main.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 128<LI>Call Chain = main &rArr; ADC_Get_Configuration &rArr; ADC_RegularChannelConfig
 </UL>
 <BR>[Calls]<UL><LI><a href="#[67]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;STM_EVAL_LEDOn
@@ -479,7 +479,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[5c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
 </UL>
 
-<P><STRONG><a name="[63]"></a>ADC_Get_Configuration</STRONG> (Thumb, 236 bytes, Stack size 112 bytes, adc_get.o(.text))
+<P><STRONG><a name="[63]"></a>ADC_Get_Configuration</STRONG> (Thumb, 364 bytes, Stack size 112 bytes, adc_get.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 128<LI>Call Chain = ADC_Get_Configuration &rArr; ADC_RegularChannelConfig
 </UL>
 <BR>[Calls]<UL><LI><a href="#[7c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;RCC_APB2PeriphClockCmd
